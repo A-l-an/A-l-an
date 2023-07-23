@@ -7,4 +7,4 @@
 - 🤯 I may not strong enough to master all the skills, but I'm very willing to learn new things and enhance my value
 - 🎉 Thanks for your visiting and wish you a great day :)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-l-an&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-l-an&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
