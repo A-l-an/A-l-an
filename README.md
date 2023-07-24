@@ -8,3 +8,4 @@
 - 🎉 Thanks for your visiting and wish you a great day :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-l-an&show_icons=true&count_private=true&hide=prs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[!(https://github-readme-streak-stats.herokuapp.com/?user=A-l-an&include_all_commits=true&hide_border=true)]
